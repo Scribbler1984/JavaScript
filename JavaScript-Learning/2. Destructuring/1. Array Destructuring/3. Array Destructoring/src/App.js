@@ -2,7 +2,6 @@ import './App.css';
 
 /*
 
-  Die map()-Funktion
   ----------------------------------------------------------------------------------------------------------------------------------------
 
   Array destructuring is a feature in JavaScript that allows you to extract values from an 
